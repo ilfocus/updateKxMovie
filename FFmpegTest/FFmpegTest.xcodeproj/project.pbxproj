@@ -525,7 +525,7 @@
 				TargetAttributes = {
 					CFA795A61AF5F1BB00E56796 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = JWCKH3RNMB;
+						DevelopmentTeam = E9HT8X9BW8;
 					};
 					CFA795BF1AF5F1BB00E56796 = {
 						CreatedOnToolsVersion = 6.3.1;
@@ -725,6 +725,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/FFmpegTest/FFmpeg-iOS/lib",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.times.Ltd.FFmpegTest11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -746,6 +747,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/FFmpegTest/FFmpeg-iOS/lib",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.times.Ltd.FFmpegTest11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
